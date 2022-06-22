@@ -1,0 +1,6 @@
+.gwDialog{background-color:#fff;}
+.el-dialog__header{padding:0;}
+.gwDialog .tiles{font-size:16px;padding:12px 20px;border-bottom:1px solid #f0f0f0;}
+.gwDialog .el-dialog__body{padding:0;}
+.gwDialog .tiles .gotoListIcon{margin-left:0;}
+.textClass{color:#0190e3;cursor:pointer;}

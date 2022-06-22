@@ -1,0 +1,26 @@
+.capitWarp{margin:20px;}
+.w7 {
+    width:7%;
+    display: inline-block;
+}
+.w7 .inpt{position:relative;top:0;}
+.bor{display:block;width:50px;height:20px;padding:4px;border-radius:4px;color:#606266;
+    border:1px solid #DCDFE6;position:relative;line-height:20px;
+    cursor: pointer;font-size:12px;margin-right:10px;
+}
+.bor .iconYuan{display:block;width:8px;height:8px;overflow:hidden;float:left;
+    border-radius:50%;border:1px solid #DCDFE6;margin-right:5px;position:relative;top:5px;
+}
+.bor.borCheck{border:1px solid #0190e3;color:#0190e3}
+.seachTile{font-size:14px;line-height:40px;}
+.capitMain{background-color: #fff;padding:20px;}
+.textClass{color:#0190e3;cursor:pointer;}
+.posiTionClas{margin-bottom:20px;}
+.bsmBox{position:relative;top:-20px;margin-bottom:0;}
+.mb0{margin-bottom:0;}
+
+.footerButn{border-top:1px solid #f2f4f7;
+    text-align:right;padding:20px 0;
+}
+.footerButn .footer{width:80%;margin:0 auto;}
+.footerButn .footer button{float:right;margin-left:20px;}
